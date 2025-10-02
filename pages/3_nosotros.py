@@ -20,3 +20,5 @@ st.markdown(
 Contamos con 15 colaboradores, incluyendo ingenieros, técnicos y vendedores capacitados.
 """
 )
+
+st.video("https://www.youtube.com/watch?v=IwDsU4wyu4c")
